@@ -1,4 +1,4 @@
-[![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertmoura)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertmoura&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **robertmoura/robertmoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
